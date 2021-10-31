@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Woimarina
+- 👀 I’m interested in electrical engeneering and embeded systems development
+- 🌱 I’m currently learning python for machine learning and java 
+- 📫 How to reach me with my email: st.marina@alu.ufc.br
+
+<!---
+Woimarina/Woimarina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
