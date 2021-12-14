@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Woimarina
-- 👀 I’m interested in electrical engeneering and embeded systems development
-- 🌱 I’m currently learning python for machine learning and java 
+- 👀 I’m interested in electrical engeneering, embeded systems and IoT development
+- 🌱 I’m currently learning python for machine learning and IoT solutions 
 - 📫 How to reach me with my email: st.marina@alu.ufc.br
 
 <!---
